@@ -9,6 +9,7 @@ Tutorial for the Low Altitude Disaster Imagery (LADI) dataset. This tutorial was
   - [PyTorch Data Loading](#pytorch-data-loading)
   - [Train and Test A Classifier](#train-and-test-a-classifier)
   - [Fine Tuning Torchvision Models](#fine-tuning-torchvision-models)
+  - [Scripts](#Scripts)
   - [Distribution Statement](#distribution-statement)
 
 ## Getting Started
