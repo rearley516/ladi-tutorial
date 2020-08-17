@@ -47,9 +47,9 @@ This documentation is about training and testing a classifier model using Convol
 
 This documentation is about training and testing a classifier model using pre-trained ResNet and AlexNet.
 
-## Boilerplate Scripts
+## Scripts
 
-[Boilerplate Scripts](./scripts)
+[Scripts](./scripts)
 
 This is a set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects. The GitHub Scripts To Rule Them All was used as a template. These scripts will download all of the necessary data to get you started.
 
