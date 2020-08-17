@@ -25,9 +25,9 @@ This documentation is about clean the LADI dataset. For this project, we have on
 
 ## Geospatial Hurricane Analysis
 
-[Geospatial Hurricane Analysis](./Tutorials/"Flood Analysis.ipynb")
+[Geospatial Hurricane Analysis](./Tutorials/Geospatial-Hurricane-Analysis.ipynb)
 
-This documentation performs a geospatial Analysis of the destruction caused by Hurricanes Florence and Matthew in Florida, Georgia, and the Carolinas.
+This documentation performs a geospatial Analysis of the destruction and flooding caused by Hurricanes Florence and Matthew in Florida, Georgia, and the Carolinas.
 
 ## PyTorch Data Loading
 
